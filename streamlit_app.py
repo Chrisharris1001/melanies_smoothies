@@ -8,7 +8,7 @@ import pandas as pd_df
 st.title(":cup_with_straw: Customize Your Smoothie! :cup_with_straw:")
 st.write(
     """
-    Choose the fuits you want in your custom Smoothie!
+    Choose the fruits you want in your custom Smoothie!
     """
 )
 name_on_order = st.text_input('Name on Smoothie:')
